@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Jonathan Evans
+title: Data Scientce and Machine Learning
+description: Jonathan Evans is a Data Scientist and Machine Learning Engineer. He is passionate about using data to solve complex problems and build intelligent systems. He is also a mentor and educator, and enjoys sharing his knowledge with others.
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: jevans6911@utexas.edu
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
