@@ -1,14 +1,14 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2024-01-11 12:26:40
 layout: post
-title: The quick brown fox jumps over a lazy dog
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: assets/img/nfl_cluster_scatter.png
-optimized_image: assets/img/nfl_cluster_scatter.png
-category: css
+title: Katt Williams Interview NLP Deep-Dive
+subtitle: 
+description: How I used advanced NLP techniques to track celebrity mentions, sentiment over time, word usage, and much more!
+image: /assets/img/katt_interview.jpeg
+optimized_image: /assets/img/katt_interview.jpeg
+category: nlp
 tags:
-  - css
+  - nlp
   - tips
 author: Jonathan Evans
 external_link: 'https://github.com/FlamingoCalves'

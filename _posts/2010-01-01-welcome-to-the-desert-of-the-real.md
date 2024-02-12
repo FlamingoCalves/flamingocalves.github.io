@@ -12,8 +12,8 @@ optimized_image: >-
   /assets/img/insurance_summary.png
 category: Hugging Face
 tags:
-  - welcome
-  - blog
+  - ai
+  - hugging face
 author: Jonathan Evans
 paginate: true
 external_link: 'https://www.linkedin.com/pulse/simplifying-document-summarization-inquiry-ai-beginners-evans-yg9yf%3FtrackingId=XJ77yfFXL8udAks1xcmRxA%253D%253D/?trackingId=XJ77yfFXL8udAks1xcmRxA%3D%3D'

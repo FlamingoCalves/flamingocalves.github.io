@@ -8,8 +8,8 @@ image: /assets/img/social_chatbot.jpeg
 optimized_image: /assets/img/social_chatbot.jpeg
 category: AI
 tags:
-  - books
-  - read
+  - ai
+  - how-to
 author: Jonathan Evans
 paginate: true
 external_link: https://www.linkedin.com/pulse/challenges-building-social-anxiety-chatbot-jonathan-evans-tg02c/?trackingId=zwgRnBhJQQyMk%2F54yMv5MQ%3D%3D
