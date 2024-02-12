@@ -1,22 +1,22 @@
 ---
-date: 2023-05-16 23:48:05
+date: 2024-02-06 23:48:05
 layout: post
-title: Jonathan Test Post
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: How I Used Hugging Face to Build a Tailored AI Document Summarizer
+subtitle: It answers questions too!
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  /assets/img/insurance_summary.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+  /assets/img/insurance_summary.png
+category: Hugging Face
 tags:
   - welcome
   - blog
-author: mranderson
+author: Jonathan Evans
 paginate: true
-github_link: https://github.com/FlamingoCalves
+external_link: 'https://www.linkedin.com/pulse/simplifying-document-summarization-inquiry-ai-beginners-evans-yg9yf%3FtrackingId=XJ77yfFXL8udAks1xcmRxA%253D%253D/?trackingId=XJ77yfFXL8udAks1xcmRxA%3D%3D'
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

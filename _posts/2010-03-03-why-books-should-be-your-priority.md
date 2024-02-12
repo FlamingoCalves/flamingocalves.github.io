@@ -1,17 +1,18 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2024-01-04 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: Building a Social Chatbot with GPT-4 API
+subtitle: 
+description: The goal of this project was to build an AI chatbot that can help folks with autism and social anxiety practice their social skills.
+image: /assets/img/social_chatbot.jpeg
+optimized_image: /assets/img/social_chatbot.jpeg
+category: AI
 tags:
   - books
   - read
-author: mranderson
+author: Jonathan Evans
 paginate: true
+external_link: https://www.linkedin.com/pulse/challenges-building-social-anxiety-chatbot-jonathan-evans-tg02c/?trackingId=zwgRnBhJQQyMk%2F54yMv5MQ%3D%3D
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

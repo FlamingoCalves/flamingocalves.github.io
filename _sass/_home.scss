@@ -16,11 +16,15 @@
 .row {
   @include center(100%);
   margin: 0px rem($rowMargin);
+  color: #fff;
+  background-color: #fff;
 }
 
 .flex-grid {
   display: flex;
   flex-flow: row wrap;
+  color: #fff;
+  background-color: #141414;
 }
 
 .title-category {
@@ -124,7 +128,7 @@
       margin: rem(10px) 0;
       font-size: rem(24px);
       @include mainFont(800);
-      color: $accentDark;
+      color: rgb(249, 249, 249);
       line-height: rem(30px);
     }
 

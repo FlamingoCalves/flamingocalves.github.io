@@ -18,8 +18,8 @@ layout: main
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
     <!-- Hero -->
     {% assign featured = posts.first %}
-    <section class="hero" style="background-image: url({{ featured.image }})">
-        <div class="pixels"></div>
+    <section class="hero" style="background-image: url('{{ featured.image | prepend: site.baseurl }}')">
+        <!--<div class="pixels"></div> -->
         <div class="gradient"></div>
         <div class="content">
             <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
@@ -32,7 +32,7 @@ layout: main
             <h1 class="title">{{ featured.title }}</h1>
             <p class="description">{{ featured.subtitle }}</p>
             <div class="buttons">
-                <a href="https://github.com/FlamingoCalves" role="button" class="button">
+                <a href="{{ featured.external_link }}" role="button" class="button">
                     <svg>
                         <use xlink:href="#icon-read"></use>
                     </svg>
@@ -52,10 +52,10 @@ layout: main
                 </a>
             </span>
             <div class="box-body">
-                <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
+                <a class="cover" href="{{ post.external_link }}">
                     {% include loader.html %}
                     {% if post.optimized_image %}
-                    <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}"
+                    <img src="{{ post.image | prepend: site.baseurl }}" width="100%" data-url="{{ post.optimized_image }}"
                         class="preload">
                     <noscript>
                         <img src="{{ post.optimized_image }}" width="100%">
