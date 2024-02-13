@@ -1,17 +1,18 @@
 ---
-date: 2018-02-03 12:26:40
+date: 2023-11-03 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+title: Automating My Data Science Setup w/ Python
+subtitle: 
+description: I used Python to drastically speed up my initial coding steps for projects.
+image: /assets/img/ds_workflow.png
+optimized_image: /assets/img/ds_workflow.png
+category: automation
 tags:
-  - jedi
-  - doggo
-  - starwars
-author: mranderson
+  - automation
+  - python
+  - coding
+author: Jonathan Evans
+external_link: https://github.com/FlamingoCalves/ds-workflow-automation/blob/main/ds_workflow_automation.py
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

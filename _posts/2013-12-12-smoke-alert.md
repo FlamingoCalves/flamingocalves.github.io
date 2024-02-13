@@ -1,17 +1,17 @@
 ---
-date: 2017-07-29 13:24:49
+date: 2023-08-29 13:24:49
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+title: Analyzing American Eating Habits w/ UberEats Data
+description: I used Python and advanced analytics techniques to dissect and cluster American eating habits through an analysis of UberEats data.
+image: /assets/img/uber_eats.jpeg
+optimized_image: /assets/img/uber_eats.jpeg
+subtitle: 
+category: Python
 tags:
-  - jekyll
-  - wordpress
-  - blog
-author: mranderson
+  - analysis
+  - python
+author: Jonathan Evans
+external_link: https://www.linkedin.com/pulse/what-americans-really-eating-deep-dive-ubereats-data-using-evans-6chnc%3FtrackingId=2F3b07XP905yuLCrscyCCg%253D%253D/?trackingId=2F3b07XP905yuLCrscyCCg%3D%3D
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

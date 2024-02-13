@@ -1,16 +1,18 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2023-07-08 12:00:00
 layout: post
-title: Do you believe that a spider can dance?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+title: Popularity Scoring on Netflix 2023 Movie Report Data
+subtitle: 
+description: I used Netflix 2023 report data to generate a popularity score calculation that takes numerous variables and importance weights into account.
+category: mathematics
+image: /assets/img/netflix_pop.png
+optimized_image: /assets/img/netflix_pop.png
 tags:
-  - fate
-  - travel
-author: mranderson
+  - mathematics
+  - analytics
+  - python
+author: Jonathan Evans
+external_link: https://github.com/FlamingoCalves/netflix-2023-analysis/blob/master/netflix_movie_analysis.ipynb
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

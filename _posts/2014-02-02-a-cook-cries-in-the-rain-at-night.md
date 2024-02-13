@@ -1,17 +1,18 @@
 ---
-date: 2017-06-04 12:00:00
+date: 2023-06-04 12:00:00
 layout: post
-title: A cook cries in the rain at night
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
-category: diet
+title: Unveiling the Power of Plotly - A Journey Through Car Crash Data Analysis
+subtitle: 
+description: I recently embarked on an insightful journey exploring car crash data from Monroe County, New York, spanning 2003 to 2015. I had two main objectives for this project to uncover patterns in accident data and to deepen my understanding of Plotly.
+image: /assets/img/plotly_crash.gif
+optimized_image: /assets/img/plotly_crash.gif
+category: plotly
 tags:
-  - cook
-  - cucine
-  - story
-author: mranderson
+  - plotly
+  - visualization
+  - python
+author: Jonathan Evans
+external_link: https://www.linkedin.com/pulse/unveiling-power-plotly-journey-through-car-crash-data-jonathan-evans-f4scc/?trackingId=QPDuZ94uSemY83o6i3CDxg%3D%3D
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
